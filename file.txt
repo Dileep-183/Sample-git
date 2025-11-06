@@ -1,0 +1,9 @@
+Tools Commonly Used in Secure SDLC
+
+Phase	Example Security Tools
+
+Planning	- OWASP Threat Dragon, Microsoft TMT
+Coding	        - SonarQube, Checkmarx, Fortify
+Testing	        - Burp Suite, OWASP ZAP, Nessus
+Deployment      - Docker Bench, OpenSCAP
+Maintenance	- Splunk, SIEM, Qualys

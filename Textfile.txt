@@ -1,0 +1,7 @@
+Summary: Benefits of Secure SDLC
+
+✅ Early detection of security flaws
+✅ Lower cost of fixing vulnerabilities
+✅ Compliance with standards
+✅ Improved trust and reliability
+✅ Reduced attack surface
