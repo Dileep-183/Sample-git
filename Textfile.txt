@@ -5,3 +5,5 @@ Summary: Benefits of Secure SDLC
 ✅ Compliance with standards
 ✅ Improved trust and reliability
 ✅ Reduced attack surface
+
+SDLC :- Software Development Life Cycle
